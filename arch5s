@@ -30,6 +30,9 @@
 .hljs-type,
 .hljs-built_in,
 .hljs-params {color: #5c2699;
+
+
+
 }.hljs-attr {color: #836C28;
 }.hljs-subst {color: #000;
 }.hljs-formula {background-color: #eee;font-style: italic;
