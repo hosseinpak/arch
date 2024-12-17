@@ -10,6 +10,7 @@
 
 .hljs-keyword,
 .hljs-selector-tag,
+
 .hljs-literal,
 .hljs-name {color: #aa0d91;
 }.hljs-variable,
