@@ -10,7 +10,23 @@
 
 .hljs-keyword,
 .hljs-selector-tag,
+const STRICT_COOKIE = "C0001";
+  const PERF_COOKIE = "C0002";
+  const FUNC_COOKIE = "C0003";
+  const TARGET_COOKIE = "C0004";
 
+  const YT_DOMAIN = "www.youtube.com";
+  const TW_DOMAIN = "platform.twitter.com";
+  const TW_CONTAINER = "twitter-tweet";
+
+  const CONTENT_PLACEHOLDER = "content-placeholder";
+
+  // TODO: confirm if i18n needed
+  const contentPlaceholderTemplate = `
+    <div class="tw-p-6 dark:tw-bg-moon-900">
+      <div class="tw-flex tw-flex-col tw-gap-4">
+        <div class="tw-p-6 tw-border-solid tw-border-2 tw-border-gray-200 tw-rounded-lg dark:tw-border-moon-800">
+          <div class="tw-flex">
 .hljs-literal,
 .hljs-name {color: #aa0d91;
 }.hljs-variable,
