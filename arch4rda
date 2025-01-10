@@ -51,8 +51,7 @@ const STRICT_COOKIE = "C0001";
 
 
 
-}.hljs-attr {color: #836C28;
-}.hljs-subst {color: #000;
+
 }.hljs-formula {background-color: #eee;font-style: italic;
 }.hljs-addition {background-color: #baeeba;
 }.hljs-deletion {background-color: #ffc8bd;
